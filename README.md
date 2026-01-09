@@ -46,10 +46,6 @@ The primary objectives of this project are to:
   - Data analysis and validation
   - Libraries: Pandas, NumPy
 
-- **Power BI**
-  - Interactive dashboards
-  - Business-focused visual reporting
-
 - **GitHub**
   - Version control
   - Project documentation
