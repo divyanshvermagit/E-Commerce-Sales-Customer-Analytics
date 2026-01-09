@@ -1,34 +1,55 @@
-📊 E-Commerce Sales & Customer Analytics
+# 📊 E-Commerce Sales & Customer Analytics
 
-End-to-End Data Analysis using SQL & Python
+## End-to-End Data Analysis using SQL & Python
 
-🔍 Project Overview
+---
 
-This project performs an end-to-end E-commerce data analysis to uncover actionable business insights from transactional, customer, product, and seller-level data.
+## 🔍 Project Overview
 
-The analysis answers basic, intermediate, and advanced business questions commonly solved by Data Analysts in real-world e-commerce companies.
-It focuses on sales performance, customer behavior, revenue contribution, seller performance, and customer retention, using SQL and Python as core tools.
+This project performs an **end-to-end E-commerce data analysis** to uncover actionable business insights from **transactional, customer, product, and seller-level data**.
 
-🎯 Business Objectives
+The analysis answers **basic, intermediate, and advanced business questions** commonly solved by Data Analysts in real-world e-commerce companies.
 
-The primary goals of this project are to:
+It focuses on:
+- Sales performance  
+- Customer behavior  
+- Revenue contribution  
+- Seller performance  
+- Customer retention  
 
-Understand customer distribution and purchasing behavior
+The entire analysis is driven using **SQL and Python** as core analytical tools.
 
-Analyze sales and revenue trends over time
+---
 
-Identify top-performing products, categories, and sellers
+## 🎯 Business Objectives
 
-Measure customer retention and repeat purchase behavior
+The primary objectives of this project are to:
 
-Apply advanced analytical techniques such as moving averages, cumulative sales, and YoY growth
+- Understand **customer distribution and purchasing behavior**
+- Analyze **sales and revenue trends over time**
+- Identify **top-performing products, categories, and sellers**
+- Measure **customer retention and repeat purchase behavior**
+- Apply **advanced analytical techniques**, including:
+  - Moving averages  
+  - Cumulative sales  
+  - Year-over-Year (YoY) growth  
 
-🛠️ Tools & Technologies Used
+---
 
-SQL – Data extraction, aggregation, window functions, CTEs
+## 🛠️ Tools & Technologies Used
 
-Python – Data analysis and validation (Pandas, NumPy)
+- **SQL**
+  - Data extraction and transformation
+  - Aggregations, CTEs, window functions
 
-Power BI – Interactive dashboards and visual reporting
+- **Python**
+  - Data analysis and validation
+  - Libraries: Pandas, NumPy
 
-GitHub – Version control and project documentation
+- **Power BI**
+  - Interactive dashboards
+  - Business-focused visual reporting
+
+- **GitHub**
+  - Version control
+  - Project documentation
